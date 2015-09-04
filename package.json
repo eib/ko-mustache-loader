@@ -1,6 +1,6 @@
 {
   "name": "ko-mustache-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack Loader converting Mustache templates to Knockout syntax",
   "main": "index.js",
   "scripts": {
